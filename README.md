@@ -3,7 +3,7 @@ This is a simple chat application built with Node.js, Express, and Socket.io tha
 
 ## Preview 
 
-See the app live at [chat-app-dk.up.railway.app](chat-app-dk.up.railway.app).
+See the app live at [chat-app-dk.up.railway.app](https://chat-app-dk.up.railway.app).
 
 ## Features
 
