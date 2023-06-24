@@ -1,9 +1,9 @@
 # Chat App
-This is a simple chat application built with Node.js, Express, and Socket.io that allows users to communicate with each other in real-time. The application is designed to be easy to use and customize, allowing users to quickly set up their own chatroom and start chatting with friends or colleagues. It also supports multiple rooms, so users can create separate conversations for different topics or groups of people.
+This is a simple chat application built with Node.js, Express, and Socket.io that allows users to communicate with each other in real time. The application is designed to be easy to use and customize, allowing users to quickly set up their own chatroom and start chatting with friends or colleagues. It also supports multiple rooms, so users can create separate conversations for different topics or groups of people.
 
 ## Preview 
 
-See the app live at [chat-app-dk.up.railway.app](https://chat-app-dk.up.railway.app).
+See the app live at [Chat App - Live Preview](https://chat-app-dk.onrender.com/).
 
 ## Features
 
